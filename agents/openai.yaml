@@ -1,0 +1,4 @@
+interface:
+  display_name: "Waffo 收款全流程"
+  short_description: "Waffo 注册审核、新增店铺、商品配置、后台接入及付款退款验收"
+  default_prompt: "使用 $waffo-payments 为当前网站配置 Waffo 收款，并检查付款、权益到账与退款全流程。"
